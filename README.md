@@ -25,10 +25,9 @@
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muratsgt" align="right" width="50%">
+
 ### 👨👩 Social
 - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrtakca/)
 - [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MuratM99)
 - [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muratakca.mt@gmail.com)
----
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muratsgt" align="right" width="50%">
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=muratsgt)
