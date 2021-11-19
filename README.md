@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on frontend and mobile app development 
 - 🌱 I’m learning more on backend development
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything
 - ⚡ Git Quote: The best view comes after the hardest climb
 ---
 ### 🚀 Skills
