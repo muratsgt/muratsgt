@@ -1,6 +1,10 @@
 ## Hi there 👋
 ### Full-Stack & React & React Native Developer
 ---
+### My Work Demo's
+* Twitter Clone (React, NextJs, StoryBook) --> https://twitter-proj.vercel.app
+* Online Bookstore (MongoDB, Express, React, NodeJs) --> https://node-mongo-booktest.herokuapp.com
+---
 - 🔭 I’m currently working on frontend and mobile app development 
 - 🌱 I’m learning more on backend development
 - 👯 I’m looking to collaborate on open source projects
@@ -28,5 +32,4 @@
 
 ### 👨👩 Social
 - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrtakca/)
-- [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MuratM99)
 - [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muratakca.mt@gmail.com)
