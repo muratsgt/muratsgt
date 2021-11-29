@@ -1,5 +1,4 @@
 ## Hi there 👋
-### Full-Stack & React & React Native Developer
 ---
 ### My Work Demo's
 * Twitter Clone (React, NextJs, StoryBook) --> https://twitter-proj.vercel.app
