@@ -3,6 +3,7 @@
 ### My Work Demo's
 * Twitter Clone (React, NextJs, StoryBook) --> https://twitter-proj.vercel.app
 * Online Bookstore (MongoDB, Express, React, NodeJs) --> https://node-mongo-booktest.herokuapp.com
+* Body Mass Index Calculator --> https://bodymassindex-xi.vercel.app
 ---
 - 🔭 I’m currently working on frontend and mobile app development 
 - 🌱 I’m learning more on backend development
